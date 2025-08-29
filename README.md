@@ -18,3 +18,8 @@ Implemented Pintos OS features including alarm clock (sleep list, no busy-wait),
 cd src/threads && make check
 cd ../userprog && make check
 cd ../filesys && make check
+```
+## ⚠️ Warning
+- This repository is part of the author's personal portfolio and is shared for viewing purposes only.
+Use, redistribution, or download of this code is not permitted without prior permission of the author.
+- Copying this work for assignments, coursework, or projects is strictly prohibited.
